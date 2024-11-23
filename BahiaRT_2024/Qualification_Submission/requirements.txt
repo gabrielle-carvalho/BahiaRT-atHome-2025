@@ -1,0 +1,11 @@
+rclpy
+SpeechRecognition
+gtts
+playsound==1.2.2
+numpy==1.14.0
+noisereduce
+opencv-python
+dlib
+scipy
+cv_bridge
+tk
