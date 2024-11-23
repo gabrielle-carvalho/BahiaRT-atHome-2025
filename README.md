@@ -29,9 +29,23 @@ Our Scientific Publications: https://www.acso.uneb.br/acso/uploads/Main/acsobibr
 
 BahiaRT in media: http://www.acso.uneb.br/acso/index.php?n=Main.Imprensa
 
+Downloadable Documents: https://www.acso.uneb.br/bahiart/index.php?n=Main.Downloads
+
 # Contact Us
 Website: http://www.acso.uneb.br  
  
 E-mail: acsopesquisa@gmail.com
 
 Instagram: [@bahiart_team](https://www.instagram.com/bahiart_team)
+
+YouTube: https://www.youtube.com/user/simoesmarco
+
+Facebook: http://www.facebook.com/BahiaRoboticsTeam
+
+
+# Address:
+Rua Silveira Martins, 2555.
+Cabula. Salvador, Bahia, Brazil.
+CEP (zip code): 41.150-000  
+
+Google maps: https://goo.gl/maps/uQ3XnUAoysPwobi26
