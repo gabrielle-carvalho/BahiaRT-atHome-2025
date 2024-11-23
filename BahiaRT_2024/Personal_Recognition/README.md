@@ -8,7 +8,7 @@ Install the dependencies as indicated below;
 
 Clone this repository;  
 
-After cloning the repository, you can install the necessary Python dependencies using the requirements.txt file:  
+After cloning the repository, you can install the necessary Python dependencies using the requirementsPersonal.txt file:  
 
 
 ```bash
