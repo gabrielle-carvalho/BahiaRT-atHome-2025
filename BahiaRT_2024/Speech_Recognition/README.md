@@ -2,61 +2,61 @@
 
 ## Speech Recognition - Context
 
-Este projeto implementa um sistema de *Question Answering* (QA) utilizando ROS2. Ele é composto por dois módulos principais:  
-1. Responder perguntas com base em um **contexto predefinido** usando um modelo **DistilBERT**.  
-2. Treinamento do modelo DistilBERT a partir do arquivo `context.txt`.  
+This project implements a *Question Answering* (QA) system using ROS2. It consists of two main modules:  
+1. Answering questions based on a **predefined context** using a **DistilBERT**  model.  
+2. Training the DistilBERT model using the `context.txt` file.  
 
 ---
 
-## Pré-requisitos
+## Prerequisites
 
-Certifique-se de que seu sistema tenha as seguintes dependências instaladas:  
+Ensure your system has the following dependencies installed:  
 
-## Ferramentas Gerais
+## General Tools
 - Python 3.8+  
 - ROS2 (Humble)  
 - `pip` para gerenciar pacotes Python  
 
-## Bibliotecas Python
-Instale as bibliotecas necessárias executando:  
+## Python Libraries
+Install the required libraries by running:  
 ```bash
 pip install -r requirements.txt
 
 ```
-## Configuração
+## Configuration
 
-1. Clone este repositório:
+1. Clone this repository:
    ```bash
    git clone https://github.com/gabrielle-carvalho/BahiaRT_atHome.git
    cd BahiaRT_atHome
 
-2. Compile o pacote ROS2
+2. Build the ROS2 package:
    ```bash
    colcon build
-3. Configurar o Ambiente do Workspace
+3. Set up the Workspace environment:
    ```bash
    source install/setup.bash
-4. Configure o contexto:
+4. Configure the context:
 
-   Se necessário insira o texto do contexto no arquivo `speech_pkg/context.txt`. Este será usado para responder perguntas.
+   If needed, insert the context text into the file `speech_pkg/context.txt`. This will be used to answer questions.
 
 ---
 
-## Como Executar
+## How to Run
 
-1. Execute o arquivo de lançamento para iniciar o nó principal:
+1. Launch the main node:
    ```bash
    ros2 launch speech_pkg speech_launch.py
    ```
-2. Interagir com o Sistema após o nó ser iniciado:
+2. Interact with the system after the node starts:
 
-- Fale uma pergunta em inglês para o microfone.
-- O sistema processará a fala, identificará a pergunta e fornecerá uma resposta com base no contexto carregado
+- Speak a question in English using the microphone.
+- The system will process the speech, identify the question, and provide an answer based on the loaded context.
 
-3. Treinamento do Modelo
-Caso deseje treinar o modelo DistilBERT com um novo contexto, siga os passos abaixo:
+3. Train the Model
+If you want to train the DistilBERT model with a new context, follow the steps below:
 
-- Edite o arquivo `speech_pkg/context.txt` com o novo contexto.
-- Execute o script de treinamento:
+- Edit the `speech_pkg/context.txt` file with the new context.
+- Run the training script:
   ```bash
   python3 bert_treinamento.py
