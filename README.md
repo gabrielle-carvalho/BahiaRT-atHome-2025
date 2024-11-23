@@ -16,31 +16,34 @@ Click on the links below to access each project and read the readme to know how 
 
 ## Our TDP's and Posters
 
-[TDP CBR LARC 2024
+- [TDP CBR LARC 2024
 ](https://github.com/gabrielle-carvalho/BahiaRT_atHome/blob/main/Documents/TDP/2024_LARC_CBR_TDP.pdf)
 
-[Poster CBR LARC 2024
+- [Poster CBR LARC 2024
 ](https://github.com/gabrielle-carvalho/BahiaRT_atHome/blob/main/Documents/Banner/2024LARC_CBR_poster.pdf)
 
 
 ## Publications of the team
 
-Our Scientific Publications: https://www.acso.uneb.br/acso/uploads/Main/acsobibref.html   
+- Our Scientific Publications: https://www.acso.uneb.br/acso/uploads/Main/acsobibref.html   
 
-BahiaRT in media: http://www.acso.uneb.br/acso/index.php?n=Main.Imprensa
+- BahiaRT in media: http://www.acso.uneb.br/acso/index.php?n=Main.Imprensa
 
-Downloadable Documents: https://www.acso.uneb.br/bahiart/index.php?n=Main.Downloads
+- Downloadable Documents: https://www.acso.uneb.br/bahiart/index.php?n=Main.Downloads
 
 # Contact Us
-Website: http://www.acso.uneb.br  
+- Website: http://www.acso.uneb.br  
  
-E-mail: acsopesquisa@gmail.com
+- E-mail: acsopesquisa@gmail.com
 
-Instagram: [@bahiart_team](https://www.instagram.com/bahiart_team)
+- Instagram: [@bahiart_team](https://www.instagram.com/bahiart_team)
+  
+- Twitter: [@BahiaRobotics](https://x.com/BahiaRobotics)
 
-YouTube: https://www.youtube.com/user/simoesmarco
 
-Facebook: http://www.facebook.com/BahiaRoboticsTeam
+- YouTube: https://www.youtube.com/user/simoesmarco
+
+- Facebook: http://www.facebook.com/BahiaRoboticsTeam
 
 
 # Address:
