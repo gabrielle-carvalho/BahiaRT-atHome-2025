@@ -40,3 +40,6 @@ turn_around_node
 voice_node
 ```
 Follow the program instructions. If you have any questions, contact us.
+
+# Example of Detection Results
+<img src="PersonalRecognition_ws/src/personal_recognition/personal_recognition/predict/Unknown.jpg" alt="Reconhecendo 2 pessoas, uma como Pedro e outra como desconhecido" width="700">
