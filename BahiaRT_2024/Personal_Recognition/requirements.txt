@@ -1,11 +1,14 @@
 rclpy
-SpeechRecognition
-gtts
-playsound==1.2.2
-numpy==1.14.0
-noisereduce
+std_msgs
+sensor_msgs
+geometry_msgs
+cv_bridge
 opencv-python
 dlib
+numpy
 scipy
-cv_bridge
-tk
+pillow
+speechrecognition
+gtts
+playsound==1.2.2  # playsound 1.3+ pode ter problemas em alguns sistemas
+noisereduce
