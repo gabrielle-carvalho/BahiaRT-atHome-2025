@@ -1,0 +1,16 @@
+Unidecode
+fuzzywuzzy
+transformers
+scikit-learn
+pandas
+rouge-score
+transformers[torch]
+accelerate
+sentencepiece
+huggingface_hub
+nltk
+torch
+SpeechRecognition
+gTTS
+tkinter
+playsound
