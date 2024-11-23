@@ -35,7 +35,7 @@ Object_Detection/
 3. Run the following command to install the dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirementsObject.txt
     ```
 
 ### ROS2 Dependencies
