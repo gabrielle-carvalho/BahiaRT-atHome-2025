@@ -22,6 +22,15 @@ Click on the links below to access each project and read the readme to know how 
 - [Poster CBR LARC 2024
 ](https://github.com/gabrielle-carvalho/BahiaRT_atHome/blob/main/Documents/Banner/2024LARC_CBR_poster.pdf)
 
+- [TDP CBR LARC 2018
+](https://github.com/gabrielle-carvalho/BahiaRT_atHome/blob/main/Documents/TDP/2018_LARC_CBR_TDP.pdf)
+
+- [TDP CBR LARC 2017
+](https://github.com/gabrielle-carvalho/BahiaRT_atHome/blob/main/Documents/TDP/2017_LARC_CBR_TDP.pdfTDP.pdf)
+
+- [TDP CBR LARC 2016
+](https://github.com/gabrielle-carvalho/BahiaRT_atHome/blob/main/Documents/TDP/2016_LARC_CBR_TDP.pdfTDP.pdf)
+
 
 ## Publications of the team
 
