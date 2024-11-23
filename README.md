@@ -40,8 +40,7 @@ Click on the links below to access each project and read the readme to know how 
   
 - Twitter: [@BahiaRobotics](https://x.com/BahiaRobotics)
 
-
-- YouTube: https://www.youtube.com/user/simoesmarco
+- YouTube: https://www.youtube.com/@BahiaRT/videos
 
 - Facebook: http://www.facebook.com/BahiaRoboticsTeam
 
