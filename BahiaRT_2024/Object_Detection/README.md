@@ -1,6 +1,6 @@
 # BahiaRT_atHome
 
-This repository contains the documentation of scientific contributions and work from the BahiaRT team.
+This folder contains the BahiaRT team contribution in the object detection challenge.
 
 ## Scientific Publications
 The team's publications can be found [here](https://www.acso.uneb.br/acso/uploads/Main/acsobibref.html).
