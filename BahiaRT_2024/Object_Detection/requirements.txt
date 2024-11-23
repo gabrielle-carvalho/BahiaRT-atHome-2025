@@ -1,0 +1,10 @@
+rclpy
+std_msgs
+opencv-python
+ultralytics
+pillow
+matplotlib
+cv_bridge
+reportlab
+gtts
+playsound==1.2.2  # playsound 1.3+ pode ter problemas em alguns sistemas
