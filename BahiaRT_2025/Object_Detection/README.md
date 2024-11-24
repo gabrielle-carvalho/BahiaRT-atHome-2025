@@ -1,9 +1,3 @@
-# BahiaRT_atHome
-
-This folder contains the BahiaRT team contribution in the object detection challenge.
-
----
-
 # Object Detection Workspace
 
 ## Overview
@@ -81,3 +75,7 @@ Follow these steps to run the object detection and voice nodes.
 
 By following these steps, the system will be able to detect objects using YOLO and announce them using text-to-speech.
 
+
+# Example of Detection Results
+
+<img src="Photos/image_1_.png" alt="Reconhecendo detergente" width="700">
